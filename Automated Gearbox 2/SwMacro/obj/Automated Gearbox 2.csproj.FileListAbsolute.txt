@@ -1,0 +1,11 @@
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\obj\Debug\ResolveAssemblyReference.cache
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\obj\Debug\Automated_Gearbox_2.csproj.Properties.Resources.resources
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\obj\Debug\Automated Gearbox 2.csproj.GenerateResource.Cache
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\Automated Gearbox 2.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\Automated Gearbox 2.pdb
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\SolidWorks.Interop.SldWorks.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\SolidWorks.Interop.swconst.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\SolidWorks.Proxy.Sldworks.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\bin\Debug\SolidWorks.IRemoteInteropObjectContract.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\obj\Debug\Automated Gearbox 2.dll
+E:\My Douments\MQP\SOLIDWORKS\Automated Gearbox 2\SwMacro\obj\Debug\Automated Gearbox 2.pdb
